@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AnimatedCircleProgressBar
 //
-//  Created by VIPadm on 25/04/18.
+//  Created by Venkatesh Botla on 25/04/18.
 //  Copyright © 2018 botla. All rights reserved.
 //
 
